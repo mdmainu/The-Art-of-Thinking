@@ -1,1 +1,1 @@
-# The-Art-of-Thinking
+# The-Art-of-Thinking book
